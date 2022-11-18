@@ -11,10 +11,13 @@
 <br />
 
 <!-- Hosting -->
+### :gear: Hosting
 
-### Front End - `Github Pages`
-### Back End - `Heroku`
-### Database - `Heroku PostgreSql`
+ <ul>
+    <li>Front End - `Github Pages`</li>
+    <li>Back End - `Heroku`</li>
+    <li>Database - `Heroku PostgreSql`</li>
+ </ul>   
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
