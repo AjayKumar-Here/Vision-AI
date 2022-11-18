@@ -14,7 +14,7 @@
 ### :gear: Hosting
 
  <ul>
-    <li>Front End - `Github Pages`</li>
+    <li>Front End </li> - `Github Pages`
     <li>Back End - `Heroku`</li>
     <li>Database - `Heroku PostgreSql`</li>
  </ul>   
