@@ -11,11 +11,11 @@
 <br />
 
 <!-- Hosting -->
-### :gear: Hosting
+## :gear: Hosting
 
-  Front End  - `Github Pages`
-  Back End - `Heroku`
-  Database - `Heroku PostgreSql`
+  - Front End  - `Github Pages`
+  - Back End - `Heroku`
+  - Database - `Heroku PostgreSql`
  
 
 <!-- TechStack -->
