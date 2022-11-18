@@ -12,9 +12,9 @@
 
 <!-- Hosting -->
 
-## Front End - 'Github Pages'
-## Back End - 'Heroku'
-## Database - 'Heroku PostgreSql'
+### Front End - `Github Pages`
+### Back End - `Heroku`
+### Database - `Heroku PostgreSql`
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
