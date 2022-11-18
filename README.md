@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/vision.png" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/AjayKumar-Here/Vision-AI-Repo/blob/main/assets/vision.PNG" alt="logo" width="200" height="auto" />
   <h1>Vision-AI</h1>
    
 <h2>
