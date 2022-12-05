@@ -17,7 +17,4 @@
  - Back End -  `Vercel`
  - Database - `Render PostgreSql`
  
-  ## 🔗 Repository Link
-  <h2>
- <a href="https://github.com/AjayKumar-Here/Vision-AI-Repo" > Repo </a>
-  </h2>
+  ## 🔗 Repository Link : <h2> <a href="https://github.com/AjayKumar-Here/Vision-AI-Repo" > Repo </a>  </h2>
